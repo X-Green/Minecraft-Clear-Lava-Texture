@@ -1,0 +1,4 @@
+{
+	"render_layer_transformer.fluid.minecraft:lava" : "translucent",
+	"render_layer_transformer.fluid.minecraft:flowing_lava" : "translucent"
+}
